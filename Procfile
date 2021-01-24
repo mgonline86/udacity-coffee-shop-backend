@@ -1,1 +1,1 @@
-web: cd src && gunicorn api:app lolo
+web: cd src && gunicorn api:app
